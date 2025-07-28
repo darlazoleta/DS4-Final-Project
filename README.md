@@ -19,6 +19,7 @@ F1 Score (macro): 79.44%
 These results suggest solid generalization and highlight RF-DETR’s effectiveness in detecting diverse animal classes, though some misclassifications occurred in visually similar categories.
 
 Members:
+
 Maria Alessandra Capili
 
 Darla Zoleta
