@@ -1,4 +1,4 @@
-# DS4-Final-Project
+# DS4-Final-Project (Ran using Google Colab)
 
 This project demonstrates the full object detection pipeline using RF-DETR, a transformer-based architecture developed by Roboflow. The goal is to detect and classify animals in images using a custom COCO-formatted dataset sourced from Roboflow Universe.
 
