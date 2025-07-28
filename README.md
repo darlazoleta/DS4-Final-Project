@@ -1,5 +1,7 @@
 # DS4-Final-Project (Ran using Google Colab)
 
+Link to Colab Notebook: https://colab.research.google.com/drive/1Wp6f1DPRmFP71tdrww4KKJlBlXXYrJL2?usp=sharing
+
 This project demonstrates the full object detection pipeline using RF-DETR, a transformer-based architecture developed by Roboflow. The goal is to detect and classify animals in images using a custom COCO-formatted dataset sourced from Roboflow Universe.
 
 We trained the model for 15 epochs on a dataset of 1700 images, using gradient accumulation and data augmentation (±15° rotation, normalization). The training process was handled via the rfdetr Python package, and performance was monitored through loss curves and precision-recall plots.
