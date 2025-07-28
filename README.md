@@ -20,11 +20,17 @@ These results suggest solid generalization and highlight RF-DETR’s effectivene
 
 Members:
 Maria Alessandra Capili
+
 Darla Zoleta
 
 References: 
+
 Roboflow. (n.d.). RT-DETR: Real-time object detection with transformers. https://roboflow.com/model/rt-detr
+
 Johnson, J. (2023, July 27). How to train RT-DETR on a custom dataset with transformers. Roboflow. https://blog.roboflow.com/train-rt-detr-custom-dataset-transformers/
+
 Murtaza, S. (2024, January 15). RF-DETR: An open-source object detection model. LearnOpenCV. https://learnopencv.com/rf-detr-object-detection/
+
 Sharma, A. (2025, March). Roboflow’s RF-DETR: A powerful object detection model. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2025/03/roboflows-rf-detr/
+
 Tang, Y., Li, Z., Wu, L., He, Y., Huang, G., & Wang, X. (2025). RT-DETR: RT-DETR: Real-Time Detection Transformer (arXiv preprint arXiv:2504.13099v1). https://arxiv.org/abs/2504.13099v1
